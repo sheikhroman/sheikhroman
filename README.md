@@ -1,5 +1,3 @@
-![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQEbP8Vv98YASw/profile-displaybackgroundimage-shrink_350_1400/0/1618334851825?e=1638403200&v=beta&t=TaCk1G3oPH3YFSGivzORJJTFC6hxTw-Q6ZqZ5zOg8uw)
-
 <h1 align="center">Hi 👋, I'm Sheikh Roman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
