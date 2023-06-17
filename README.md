@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhroman" alt="sheikhroman" /></a> </p>
 
-- 🌱 I love working using **MERN Stack**
+- ❤️ I love working using **MERN Stack**
 
-- 🌱 I’m currently learning **WP Plugin Development**
-- 
+- 👨‍💻 I’m currently learning **WP Plugin Development**
+
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **sheikhroman0188@gmail.com**
 
-- ⚡ Fun fact **Artcell Fan**
+- 🎵 Fun fact **Artcell Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
