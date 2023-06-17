@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sheikh Roman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhroman&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhroman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhroman" alt="sheikhroman" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I love working using **MERN Stack**
 
+- 🌱 I’m currently learning **WP Plugin Development**
+- 
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **sheikhroman0188@gmail.com**
