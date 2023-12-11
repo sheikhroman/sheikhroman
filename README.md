@@ -34,10 +34,12 @@
     <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/mongodb.png" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nodejs-alt.png" alt="nodejs" width="40" height="40"/> </a> 
+    <a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/typescript.png" alt="php" width="40" height="40"/> </a> 
+    <a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nextjs.png" alt="php" width="40" height="40"/> </a> 
     <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
     <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+    <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  </p>
 
 
 
