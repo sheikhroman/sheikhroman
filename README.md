@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhroman" alt="sheikhroman" /></a> </p>
 
-- ❤️ I love working with **MERN Stack**
+- ❤️ **MERN Stack**
 
 - 👨‍💻 I’m currently learning **WordPress Theme & Plugin Development**
 
