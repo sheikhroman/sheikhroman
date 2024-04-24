@@ -7,7 +7,7 @@
 
 - ❤️ **MERN Stack**
 
-- 👨‍💻 Currently i working on my** Product**
+- 👨‍💻 Currently I working on my ** Product**
 
 - 💬 Ask me about **JavaScript**
 
