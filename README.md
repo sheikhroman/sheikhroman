@@ -7,7 +7,7 @@
 
 - ❤️ **MERN Stack**
 
-- 👨‍💻 I’m currently learning **WordPress Theme & Plugin Development**
+- 👨‍💻 Currently i working in  **One Product**
 
 - 💬 Ask me about **JavaScript**
 
