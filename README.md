@@ -26,7 +26,7 @@
 ### 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,c++,html,css,js,ts,java,php,python,react,nextjs,nodejs,express,laravel,mongodb,mysql,tailwind,git,figma&theme=dark&perline=7" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,java,php,python,react,nextjs,nodejs,express,laravel,mongodb,mysql,tailwind,git,figma&theme=dark&perline=7" alt="tech stack" />
 </p>
 
 ### 📊 GitHub stats
