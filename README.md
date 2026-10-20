@@ -1,48 +1,54 @@
-<h1 align="center">Hi 👋, I'm Sheikh Roman</h1>
-<h3 align="center">A passionate web developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sheikh%20Roman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-stack%20developer%20%E2%80%A2%20Chatbot%20builder%20%E2%80%A2%20Game%20maker&descAlignY=55" alt="header" />
 
-- ❤️ **MERN Stack**
-
-- 👨‍💻 Currently I working on my **Product**
-
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **sheikhroman0188@gmail.com**
-
-- 🎵 Fun fact **Artcell Fan**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shrikhroman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrikhroman" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;AI+Chatbot+Builder;Indie+Game+Maker;Always+Shipping" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sheikhroman&style=flat-square&color=58a6ff" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/sheikhroman?style=flat-square&color=58a6ff" alt="followers" />
+</p>
 
+### 👨‍💻 About me
 
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" alt="c" width="40" height="40"/> </a> 
-    <a href="https://www.php.net" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/typescript.png" alt="php" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://mui.com/material-ui/ target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/mongodb.png" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nodejs-alt.png" alt="nodejs" width="40" height="40"/> </a>  
-    <a href="https://www.php.net" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="php" width="40" height="40"/> </a> 
-    <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/wordpress.png" alt="mysql" width="40" height="40"/> </a>  
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+- 🤖 Building **Click Orbit** — an AI Messenger chatbot that takes orders for Facebook shops (Bangla NLP, bKash payments, Sheets backend). Live in production.
+- 🎮 Shipped **[Verdant Glass](https://sheikhroman.github.io/Terrarium-Studio/)** — a terrarium-building browser game. [Play it live 🌱](https://sheikhroman.github.io/Terrarium-Studio/)
+- 💡 Exploring micro-SaaS for small businesses & creators
+- 🎵 Fun fact: Artcell fan
+- 📍 Dhaka, Bangladesh
 
+### 🌟 Featured projects
 
+- 🎮 **[Verdant Glass — Terrarium Studio](https://sheikhroman.github.io/Terrarium-Studio/)** — interactive botanical workshop game. **Live demo, play in your browser**
+- 🤖 **Click Orbit bot** — AI order-taking chatbot for social commerce: Bangla understanding, bKash flow, auto stock updates (private repo, live in production)
+- 💬 **[Rosa](https://github.com/sheikhroman/rosa)** — Facebook chatbot for business help
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhroman&show_icons=true&locale=en&layout=compact" alt="sheikhroman" /></p>
+### 🛠️ Tech stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhroman&show_icons=true&locale=en" alt="sheikhroman" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,php,python,tailwind,git,figma&theme=dark&perline=7" alt="tech stack" />
+</p>
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sheikhroman&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=sheikhroman&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhroman&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+### 🐍 Watch my contributions get eaten
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheikhroman/sheikhroman/output/github-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sheikhroman/sheikhroman/output/github-snake.svg" />
+</picture>
+
+### 📫 Let's connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhroman0188@gmail.com)
+[![Facebook](https://img.shields.io/badge/Click_Orbit-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/click0rbit)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer" />
