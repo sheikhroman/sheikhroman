@@ -13,6 +13,7 @@
 
 - 🤖 Building **Click Orbit** — an AI Messenger chatbot that takes orders for Facebook shops (Bangla NLP, bKash payments, Sheets backend). Live in production.
 - 🎮 Shipped **[Verdant Glass](https://sheikhroman.github.io/Terrarium-Studio/)** — a terrarium-building browser game. [Play it live 🌱](https://sheikhroman.github.io/Terrarium-Studio/)
+- 🏡 Shipped **[GramScape](https://sheikhroman.github.io/gramscope-/)** — a cozy Bangladeshi village-builder game (Townscaper-style). [Play it live 🌾](https://sheikhroman.github.io/gramscope-/)
 - 💡 Exploring micro-SaaS for small businesses & creators
 - 🎵 Fun fact: Artcell fan
 - 📍 Dhaka, Bangladesh
@@ -20,6 +21,7 @@
 ### 🌟 Featured projects
 
 - 🎮 **[Verdant Glass — Terrarium Studio](https://sheikhroman.github.io/Terrarium-Studio/)** — interactive botanical workshop game. **Live demo, play in your browser**
+- 🏡 **[GramScape](https://sheikhroman.github.io/gramscope-/)** — cozy 3D village builder with a Bangladeshi theme: tin-roofed houses, ponds, day/night cycle. **Live demo, play in your browser**
 - 🤖 **Click Orbit bot** — AI order-taking chatbot for social commerce: Bangla understanding, bKash flow, auto stock updates (private repo, live in production)
 - 💬 **[Rosa](https://github.com/sheikhroman/rosa)** — Facebook chatbot for business help
 
